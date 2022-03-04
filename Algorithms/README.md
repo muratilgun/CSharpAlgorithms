@@ -22,3 +22,11 @@ Diðer zaman karþýlaþtýrmalarý
 - O(n²) yada üstsel zaman
 - O(n!) yada faktöriyel zaman 
 sabit zaman en verimli olanýdýr. n² en verimsiz olanýdýr.
+
+
+Validation Algorithm Doðrulama algortimasý
+Bir giriþ dizesinin olup olmadýðý doðrulanýr Belirli özelliklere veya niteliklere sahiptir.
+Örneðin bir dizenin tamamamýnýn büyük harf olup olmadýðýný veya en az bir numara varmý kontrol eder. 
+Daha sonra output olarak true veya false döner. 
+Doðrulama Algoritmasý ile **Giriþ verilerinin bazý belirli özellikleri garanti edilebilir.**
+
