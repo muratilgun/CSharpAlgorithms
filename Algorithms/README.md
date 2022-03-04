@@ -34,4 +34,7 @@ string ifadeleri iþlemeden önce ortak bir formda normalleþtirmek yardýmcý olabil
 Baþka bir seçenek ise giriþleri sýnýrlandýrmaktýr. Örneðin giriþ veri olarak sadece küçük harflerin alýnmasý gibi bunun içinde
 validation algoritmasý ile herhangibir girdi türünü reddebiliriz.
 
-
+Dize içerisinde veri aramak algoritma kurarken çok kullanýlan bir yöntemdir. Bir dizi verisi hakkýnda yapýlan varsayýmlara baðlý olarak,
+algoritma çok  veya az verimli bir hale gelebilir.
+Eðer gelen string deðer hakkýnda hiç birþey bilinmiyorsa, her karakteri tek tek kontrol etmek gerekecektir.
+Aranýlan veriyi bulmak için dizenin karakterlerinin olduðunu biliyorsak ve çeþitli alfabetik sýralamayla algoritma optimize edilebilinir.
