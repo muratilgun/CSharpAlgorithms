@@ -30,3 +30,8 @@ Bir giriþ dizesinin olup olmadýðý doðrulanýr Belirli özelliklere veya nitelikler
 Daha sonra output olarak true veya false döner. 
 Doðrulama Algoritmasý ile **Giriþ verilerinin bazý belirli özellikleri garanti edilebilir.**
 
+string ifadeleri iþlemeden önce ortak bir formda normalleþtirmek yardýmcý olabilir.
+Baþka bir seçenek ise giriþleri sýnýrlandýrmaktýr. Örneðin giriþ veri olarak sadece küçük harflerin alýnmasý gibi bunun içinde
+validation algoritmasý ile herhangibir girdi türünü reddebiliriz.
+
+
