@@ -38,3 +38,7 @@ Dize içerisinde veri aramak algoritma kurarken çok kullanýlan bir yöntemdir. Bir
 algoritma çok  veya az verimli bir hale gelebilir.
 Eðer gelen string deðer hakkýnda hiç birþey bilinmiyorsa, her karakteri tek tek kontrol etmek gerekecektir.
 Aranýlan veriyi bulmak için dizenin karakterlerinin olduðunu biliyorsak ve çeþitli alfabetik sýralamayla algoritma optimize edilebilinir.
+
+Linear search yada sequential search(sýralý arama)
+
+Bir arama algoritmasýyla genellikle aramak gereken veriler girilir. Ve çýktý olarak true/false veya aranýlan veriyi daha fazla veriyle geri döndürülür.
