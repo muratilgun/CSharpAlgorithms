@@ -42,3 +42,15 @@ Aranýlan veriyi bulmak için dizenin karakterlerinin olduðunu biliyorsak ve çeþit
 Linear search yada sequential search(sýralý arama)
 
 Bir arama algoritmasýyla genellikle aramak gereken veriler girilir. Ve çýktý olarak true/false veya aranýlan veriyi daha fazla veriyle geri döndürülür.
+
+Binary search ikili arama
+
+Arama algoritmasýný optimize etmek için, veriler hakkýnda varsayýmlarda bulunmak gerekecektir.
+Örneðin datanýn sýralý olduðunu biliyorsak, ortadan baþlayabilir daha sonra öðenin nerede olmaý gerektiðine göre dizinin baþýna veya sonuna doðru ilerlenebilir.
+Böyle bir case de binary search kullanýlabilinir.
+Binary search divide-and-conquer algoritmasýdýr. böl ve yönet, aramak için **her adýmda sahip olduðu eleman sayýsýný yarýya indirir**
+Örneðin sýralý bir dizide {0,2,8,19,23,45,79}  45 numarasýný arýyorum. dizinin ortasýndan 19 dan baþlar 19, 45'den küçük olduðu için
+sona doðru ilerler. ve ikinci adýmda 45 tam dizinin ortasýnda kalacaðý için direk bulur. 6 kere karþýlaþtýrma yapmak yerine 2 kere arama yaparak
+daha hýzlý bir þekilde sonuç alýnýr. eðer her öðeye tek tek bakmak gerekirse 
+Linear search kullanýlýr. Ve O(n) doðrusal  zamanda çalýþýr. Ama Binary search'te eleman sayýsýný bildiðimiz için her karþýlaþtýrmada
+O(log(n)) zaman kadar çalýþýr. Yani daha hýzlý sonuç alýnabilir. **Bu yapabilmek için ilk önce dizinin sýralandýðýný varsaydým. Yoksa çalýþmaz.**
