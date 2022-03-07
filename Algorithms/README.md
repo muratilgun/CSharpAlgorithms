@@ -54,3 +54,15 @@ sona doðru ilerler. ve ikinci adýmda 45 tam dizinin ortasýnda kalacaðý için dire
 daha hýzlý bir þekilde sonuç alýnýr. eðer her öðeye tek tek bakmak gerekirse 
 Linear search kullanýlýr. Ve O(n) doðrusal  zamanda çalýþýr. Ama Binary search'te eleman sayýsýný bildiðimiz için her karþýlaþtýrmada
 O(log(n)) zaman kadar çalýþýr. Yani daha hýzlý sonuç alýnabilir. **Bu yapabilmek için ilk önce dizinin sýralandýðýný varsaydým. Yoksa çalýþmaz.**
+
+
+Aggregating ve filtering 
+{-8,2,3,-9,11,20}
+{0,-2,9,-39,39,10,7}
+Diyelim ki iki dizi var ve bunlarýn içesindeki çift sayýlardan yeni bir dizi oluþturmak istiyorum.
+Bunu baþarabilmenin birkaç farklý yolu vardýr.
+1. Dizileri birleþtirip geçerli olmayan ögeleri silmek (bu durumda tek sayýlar)
+2. Her bir öðeyi koþulu saðlayýp saðlamadýðýný görmek için kontrol edip, sadece geçerli olanlarý almak
+3. Her diziyi sýralayýp sadece geçerli olanlarý almak ama diziler çok büyük olabilir.
+Her algoritma ne tür veri girildiðine baðlý olarak farklý zaman karmaþýklýðýna sahip olacaktýr.
+Ýþleri basit tutmak için 2. olaný deniyeceðim

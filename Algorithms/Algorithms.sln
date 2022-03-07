@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7_", "7_\7_.csproj", "{95DB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8_Binary_Search", "8_Binary_Search\8_Binary_Search.csproj", "{D500DCD4-CECC-4A29-838C-33EE2A220272}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9_Aggregating_FindEvenNums", "9_Aggregating_FindEvenNums\9_Aggregating_FindEvenNums.csproj", "{7D4FE408-D640-4E41-882D-0BF70470757D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +64,10 @@ Global
 		{D500DCD4-CECC-4A29-838C-33EE2A220272}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D500DCD4-CECC-4A29-838C-33EE2A220272}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D500DCD4-CECC-4A29-838C-33EE2A220272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D4FE408-D640-4E41-882D-0BF70470757D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D4FE408-D640-4E41-882D-0BF70470757D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D4FE408-D640-4E41-882D-0BF70470757D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D4FE408-D640-4E41-882D-0BF70470757D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
