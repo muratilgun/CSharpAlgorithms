@@ -66,3 +66,7 @@ Bunu baþarabilmenin birkaç farklý yolu vardýr.
 3. Her diziyi sýralayýp sadece geçerli olanlarý almak ama diziler çok büyük olabilir.
 Her algoritma ne tür veri girildiðine baðlý olarak farklý zaman karmaþýklýðýna sahip olacaktýr.
 Ýþleri basit tutmak için 2. olaný deniyeceðim
+
+
+
+
