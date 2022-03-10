@@ -68,5 +68,11 @@ Her algoritma ne tür veri girildiðine baðlý olarak farklý zaman karmaþýklýðýna s
 Ýþleri basit tutmak için 2. olaný deniyeceðim
 
 
+Linked List
 
+linked listin her bir elemanýna node denir. Ve sonraki veri parçasýnýn konumuna iþaret eder.
+Örneðin veri kümesinin yarýsýný silmek gerekiyorsa, ortadaki iþaretçiyi bulabilir ve onu boþ
+olarak ayarlayabilirsiniz. Bu veri kümesinin arka baðlantýsýný kaldýrýr.
+Original : 5 -> 8 -> 10 -> 13 -> null
+Modified: 5 -> 8 -> null
 
