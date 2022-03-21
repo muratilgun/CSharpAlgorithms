@@ -30,9 +30,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10_Reverse_Array", "10_Reve
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11_", "_11\11_.csproj", "{A53F6E59-519A-4A6F-A06F-32842D0D1E75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_Linked_Lists", "12_Linked_Lists\12_Linked_Lists.csproj", "{F0AE684E-9777-4B52-A6C4-50582BF54332}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12_Linked_Lists", "12_Linked_Lists\12_Linked_Lists.csproj", "{F0AE684E-9777-4B52-A6C4-50582BF54332}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_CustomLinkedList", "13_CustomLinkedList\13_CustomLinkedList.csproj", "{6F6D0D79-04A7-4537-BB06-1AFE0DB49CD0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13_CustomLinkedList", "13_CustomLinkedList\13_CustomLinkedList.csproj", "{6F6D0D79-04A7-4537-BB06-1AFE0DB49CD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_Queue", "14_Queue\14_Queue.csproj", "{EE8DDA8F-D99F-4FE7-8CFC-6F300A539283}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -92,6 +94,10 @@ Global
 		{6F6D0D79-04A7-4537-BB06-1AFE0DB49CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F6D0D79-04A7-4537-BB06-1AFE0DB49CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F6D0D79-04A7-4537-BB06-1AFE0DB49CD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE8DDA8F-D99F-4FE7-8CFC-6F300A539283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE8DDA8F-D99F-4FE7-8CFC-6F300A539283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE8DDA8F-D99F-4FE7-8CFC-6F300A539283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE8DDA8F-D99F-4FE7-8CFC-6F300A539283}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
