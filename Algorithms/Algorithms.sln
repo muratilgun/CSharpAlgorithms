@@ -36,6 +36,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13_CustomLinkedList", "13_C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_Queue", "14_Queue\14_Queue.csproj", "{EE8DDA8F-D99F-4FE7-8CFC-6F300A539283}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_Generate_binary_numbers", "15_Generate_binary_numbers\15_Generate_binary_numbers.csproj", "{F290E606-D6EB-4F50-9214-9A772B98B8B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -98,6 +100,10 @@ Global
 		{EE8DDA8F-D99F-4FE7-8CFC-6F300A539283}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE8DDA8F-D99F-4FE7-8CFC-6F300A539283}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE8DDA8F-D99F-4FE7-8CFC-6F300A539283}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F290E606-D6EB-4F50-9214-9A772B98B8B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F290E606-D6EB-4F50-9214-9A772B98B8B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F290E606-D6EB-4F50-9214-9A772B98B8B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F290E606-D6EB-4F50-9214-9A772B98B8B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
