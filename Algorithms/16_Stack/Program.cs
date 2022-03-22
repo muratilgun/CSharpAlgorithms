@@ -21,7 +21,8 @@ namespace _16_Stack
             Console.WriteLine("END " + stack.Pop());
             Console.WriteLine("END " + stack.Pop());
 
-
+            string item;
+            Console.WriteLine(stack.TryPeek(out item));
 
         }
     }
