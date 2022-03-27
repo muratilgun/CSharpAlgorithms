@@ -42,6 +42,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_Stack", "16_Stack\16_Sta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17_Stack_Algorithms", "17_Stack_Algorithms\17_Stack_Algorithms.csproj", "{6D5FEC9B-8421-42CB-BA1C-5427E8F5764A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18_", "18_\18_.csproj", "{040F5E64-D827-41D0-AD47-8B785819C46A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -116,6 +118,10 @@ Global
 		{6D5FEC9B-8421-42CB-BA1C-5427E8F5764A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D5FEC9B-8421-42CB-BA1C-5427E8F5764A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D5FEC9B-8421-42CB-BA1C-5427E8F5764A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{040F5E64-D827-41D0-AD47-8B785819C46A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{040F5E64-D827-41D0-AD47-8B785819C46A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{040F5E64-D827-41D0-AD47-8B785819C46A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{040F5E64-D827-41D0-AD47-8B785819C46A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
